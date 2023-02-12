@@ -1,0 +1,9 @@
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\model\Product.java
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\service\ProductService.java
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\controller\ProductController.java
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\record\ProductDTO.java
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\ProductServiceApplication.java
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\mapper\ProductMapper.java
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\repository\ProductRepo.java
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\record\ProductUpdateRequest.java
+C:\Users\josel\IdeaProjects\spring-micorservices-parent\product-service\src\main\java\com\microservice\product\cloud\record\ProductCreatedRequest.java

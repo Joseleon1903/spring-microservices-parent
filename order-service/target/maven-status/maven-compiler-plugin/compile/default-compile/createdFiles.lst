@@ -1,0 +1,13 @@
+com\microservice\order\cloud\record\InventoryDto.class
+com\microservice\order\cloud\controller\OrderController.class
+com\microservice\order\cloud\mapper\OrderMapper.class
+com\microservice\order\cloud\repository\OrderRepo.class
+com\microservice\order\cloud\service\OrderService.class
+com\microservice\order\cloud\record\ProductDTO.class
+com\microservice\order\cloud\record\InStockResponse.class
+com\microservice\order\cloud\repository\OrderLineItemsRepo.class
+com\microservice\order\cloud\config\WebClientConfig.class
+com\microservice\order\cloud\model\OrderLineItems.class
+com\microservice\order\cloud\record\CreatedOrderRequest.class
+com\microservice\order\cloud\OrderServiceApplication.class
+com\microservice\order\cloud\model\Order.class

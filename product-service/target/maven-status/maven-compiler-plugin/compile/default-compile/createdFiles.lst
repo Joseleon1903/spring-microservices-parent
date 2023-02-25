@@ -1,0 +1,9 @@
+com\microservice\product\cloud\record\ProductCreatedRequest.class
+com\microservice\product\cloud\model\Product.class
+com\microservice\product\cloud\controller\ProductController.class
+com\microservice\product\cloud\ProductServiceApplication.class
+com\microservice\product\cloud\mapper\ProductMapper.class
+com\microservice\product\cloud\record\ProductDTO.class
+com\microservice\product\cloud\record\ProductUpdateRequest.class
+com\microservice\product\cloud\repository\ProductRepo.class
+com\microservice\product\cloud\service\ProductService.class
